@@ -1,0 +1,14 @@
+{
+  "name": "no-ai-writing-slop",
+  "displayName": "No AI Writing Slop",
+  "version": "1.1.1",
+  "description": "Remove AI writing patterns from prose, or detect them without rewriting, while keeping the writer's voice, facts, and meaning.",
+  "author": {
+    "name": "Growthr",
+    "url": "https://growthr.com"
+  },
+  "homepage": "https://growthr.com/tools/no-ai-writing-slop/",
+  "repository": "https://github.com/Growthr/no-ai-writing-slop",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "ai-writing", "deslop", "humanizer", "style"]
+}

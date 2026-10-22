@@ -1,0 +1,17 @@
+{
+  "name": "growthr",
+  "description": "Claude Code plugins published by Growthr.",
+  "owner": {
+    "name": "Growthr",
+    "url": "https://growthr.com"
+  },
+  "plugins": [
+    {
+      "name": "no-ai-writing-slop",
+      "source": "./",
+      "description": "Remove AI writing patterns from prose, or detect them without rewriting, while keeping the writer's voice, facts, and meaning.",
+      "category": "writing",
+      "tags": ["writing", "editing", "deslop"]
+    }
+  ]
+}
