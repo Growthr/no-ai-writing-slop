@@ -143,6 +143,10 @@ After:
 
 The Series B, the 3.2x ROAS, the 41% CAC cut and the 15-minute ask stayed. The "hope this finds you well" opener, the "ever-evolving landscape" paragraph, the "not about spending more" line, "The results speak for themselves", the emoji and the em dash went.
 
+## More Growthr skills
+
+The same `growthr` marketplace carries two more free skills: [llms-txt-generator](https://github.com/Growthr/llms-txt-generator) drafts an llms.txt for a website, and [site-scan](https://github.com/Growthr/site-scan) scores a site's SEO and AI readability across 22 checks. Install either with `/plugin install <name>@growthr`, or with `npx skills add Growthr/<name>`.
+
 ## Credits
 
 This skill combines ten MIT-licensed skills. Thanks to their authors:

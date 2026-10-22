@@ -11,7 +11,41 @@
       "source": "./",
       "description": "Remove AI writing patterns from prose, or detect them without rewriting, while keeping the writer's voice, facts, and meaning.",
       "category": "writing",
-      "tags": ["writing", "editing", "deslop"]
+      "tags": [
+        "writing",
+        "editing",
+        "deslop"
+      ]
+    },
+    {
+      "name": "llms-txt-generator",
+      "source": {
+        "source": "github",
+        "repo": "Growthr/llms-txt-generator"
+      },
+      "description": "Draft, review, or update an llms.txt for a website in the llmstxt.org format, by reading the site or through Growthr's MCP.",
+      "category": "seo",
+      "tags": [
+        "llms.txt",
+        "seo",
+        "geo",
+        "ai-search"
+      ]
+    },
+    {
+      "name": "site-scan",
+      "source": {
+        "source": "github",
+        "repo": "Growthr/site-scan"
+      },
+      "description": "Scan a site the way Googlebot and AI crawlers see it: 22 weighted checks for SEO and AI readability, scored 0-100, with the fixes ordered.",
+      "category": "seo",
+      "tags": [
+        "seo",
+        "geo",
+        "audit",
+        "ai-search"
+      ]
     }
   ]
 }
